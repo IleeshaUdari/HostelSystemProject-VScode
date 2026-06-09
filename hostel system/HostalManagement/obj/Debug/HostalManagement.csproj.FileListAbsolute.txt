@@ -1,0 +1,17 @@
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\bin\Debug\HostalManagement.exe.config
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\bin\Debug\HostalManagement.exe
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\bin\Debug\HostalManagement.pdb
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.csproj.AssemblyReference.cache
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.Form1.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.Properties.Resources.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.csproj.GenerateResource.cache
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.csproj.CoreCompileInputs.cache
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.exe
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.pdb
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.students.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.complain.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.dining.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.Home.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.maintatinance.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.rooms.resources
+C:\Users\ranam\Downloads\Telegram Desktop\HostalManagement\obj\Debug\HostalManagement.warden.resources
