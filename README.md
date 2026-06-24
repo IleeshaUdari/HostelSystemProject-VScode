@@ -98,7 +98,7 @@ diagrams/
  └── use_case_diagram.png
 ```
 
-![Use Case Diagram](diagrams/use_case_diagram.png)
+![Use Case Diagram](use_case_diagram.png)
 
 ---
 
@@ -113,7 +113,7 @@ diagrams/
  └── er_diagram.png
 ```
 
-![ER Diagram](diagrams/er_diagram.png)
+![ER Diagram](er_diagram.png)
 
 ---
 
@@ -128,7 +128,7 @@ diagrams/
  └── class_diagram.png
 ```
 
-![Class Diagram](diagrams/class_diagram.png)
+![Class Diagram](class_diagram.png)
 
 ---
 
